@@ -6,6 +6,7 @@
 
 
 
-- 🔭 I like coding
+- 🌱 I like coding
+- ⚡I am from Shenzhen, China
 - 📫 You can contact me by email
   
