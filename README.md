@@ -2,9 +2,7 @@
 
 ![info](./info.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mikaelemmmm&show_icons=true&theme=radical&count_private=true" alt="Dusai's GitHub stats" style="zoom:90%;" />[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelemmmm&hide_progress=true&theme=radical&count_private=true" alt="Top Langs" style="zoom: 251%;" />](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mikaelemmmm&show_icons=true&theme=radical&count_private=true" alt="Dusai's GitHub stats"  />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelemmmm&hide_progress=true&theme=radical&count_private=true" alt="Top Langs"  />](https://github.com/anuraghazra/github-readme-stats)
+
+
