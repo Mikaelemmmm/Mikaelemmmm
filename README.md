@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![info](C:\work\code\pc\Mikaelemmmm\info.png)
+![info](./info.png)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikaelemmmm&show_icons=true&theme=radical&count_private=true)
 
