@@ -2,7 +2,7 @@
 
 ![info](./info.png)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikaelemmmm&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mikaelemmmm&show_icons=true&theme=radical&count_private=true" alt="Dusai's GitHub stats" style="zoom:90%;" />[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelemmmm&hide_progress=true&theme=radical&count_private=true" alt="Top Langs" style="zoom: 151%;" />](https://github.com/anuraghazra/github-readme-stats)
 
 
 
